@@ -28,13 +28,16 @@
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusleon23&show_icons=true&include_all_commits=true&count_private=true&locale=es&theme=radical&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusleon23&show_icons=true&include_all_commits=true&count_private=true&locale=es&theme=radical&hide=prs,issues" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=viniciusleon23&locale=es&theme=radical" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciusleon23&layout=compact&locale=es&theme=radical" alt="Top Langs" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusleon23&theme=radical" alt="Profile Details" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusleon23&theme=radical" alt="Activity Graph" />
 </div>
 
 ## Logros
