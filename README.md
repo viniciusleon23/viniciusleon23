@@ -49,7 +49,7 @@
 <br/>
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciusleon23&layout=compact&locale=es&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusleon23&show_icons=true&commits_year=2026&locale=es&theme=radical&hide=prs,issues,stars&custom_title=Mis+Commits+2026" alt="Stats 2026" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusleon23&show_icons=true&count_private=true&commits_year=2026&locale=es&theme=radical&hide=prs,issues,stars&custom_title=Mis+Commits+2026" alt="Stats 2026" />
 </div>
 ## Logros
 
