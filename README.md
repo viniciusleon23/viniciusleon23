@@ -1,8 +1,7 @@
-# Hola, soy Vinicius
+<a href="https://github.com/viniciusleon23">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=fe428e&vCenter=true&width=500&lines=Hola,+soy+Vinicius;Backend+Developer" alt="Typing SVG" />
+</a>
 
-### Backend Developer
-
-Construyo aplicaciones web enfocadas en rendimiento, APIs limpias, despliegues confiables y bases de datos relacionales.
 
 <br>
 <a href="https://www.linkedin.com/in/josé-francisco-león-alcantar/" target="_blank">
