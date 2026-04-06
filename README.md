@@ -53,7 +53,4 @@
 
 ![Trophies](https://github-profile-trophy-eight.vercel.app/?username=viniciusleon23&row=1&column=7&theme=radical)
 
-## Actividad Reciente
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
