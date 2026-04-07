@@ -19,4 +19,5 @@ jobs:
         uses: jamesgeorge007/github-activity-readme@master
         with:
           COMMIT_MSG: "Update GitHub Activity"
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
