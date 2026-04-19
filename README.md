@@ -1,38 +1,45 @@
-<a href="https://github.com/viniciusleon23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=fe428e&vCenter=true&width=500&lines=Hola,+soy+Vinicius;Backend+Developer" alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://github.com/viniciusleon23">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=fe428e&vCenter=true&width=500&lines=Hola,+soy+Vinicius;Backend+Developer" alt="Typing SVG" />
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/josé-francisco-león-alcantar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:josfleon23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
+---
+
+<div align="center">
+
+## Stack Tecnologico
 
 <br>
-<a href="https://www.linkedin.com/in/josé-francisco-león-alcantar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:josfleon23@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<br>
 
-## Stack Favorito
+### Stack Favorito
 
 ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Backend
+<br>
+
+### Backend & Frontend
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-
-## Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## Bases de Datos
+<br>
+
+### Bases de Datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -40,23 +47,25 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-## Cloud & DevOps
+<br>
+
+### Cloud, DevOps & OS
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-## Sistemas Operativos
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-17CAFB?style=for-the-badge&logo=zorin&logoColor=white)
 
-## Estadísticas de GitHub
+</div>
+
+---
+
+## Estadisticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusleon23&show_icons=true&include_all_commits=true&count_private=true&locale=es&theme=radical&hide=prs,issues" alt="GitHub Stats" />
@@ -66,13 +75,15 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciusleon23&layout=compact&locale=es&theme=radical" alt="Top Langs" />
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusleon23&theme=radical" alt="Activity Graph" />
+</div>
+
+<br>
+
 ## Logros
 
-![Trophies](https://github-profile-trophy-eight.vercel.app/?username=viniciusleon23&row=1&column=7&theme=radical)
-
-## Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
+<div align="center">
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=viniciusleon23&row=1&column=7&theme=radical" alt="Trophies" />
+</div>
