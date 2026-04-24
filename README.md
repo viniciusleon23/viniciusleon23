@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## Stack Tecnologico
+## Stack Tecnologico 
 
 <br>
 
@@ -79,7 +79,7 @@
 
 <br>
 
-## Logros
+## Logross
 
 <div align="center">
   <img src="https://github-profile-trophy-eight.vercel.app/?username=viniciusleon23&row=1&column=7&theme=radical" alt="Trophies" />
