@@ -73,9 +73,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viniciusleon23&layout=compact&locale=es&theme=radical" alt="Top Langs" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusleon23&theme=radical" alt="Activity Graph" />
-</div>
 
 <br>
 
