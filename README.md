@@ -65,6 +65,11 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusleon23&theme=radical" alt="Activity Graph" />
+</div>
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusleon23&show_icons=true&include_all_commits=true&count_private=true&locale=es&theme=radical&hide=prs,issues" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=viniciusleon23&locale=es&theme=radical&v=20260426" alt="GitHub Streak" />
 </div>
