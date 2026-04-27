@@ -71,7 +71,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viniciusleon23&show_icons=true&include_all_commits=true&count_private=true&locale=es&theme=radical&hide=prs,issues" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=viniciusleon23&locale=es&theme=radical&v=20260426" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=viniciusleon23&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=fe428e&fire=fe428e&currStreakLabel=fe428e&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
